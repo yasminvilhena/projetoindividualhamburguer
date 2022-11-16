@@ -1,0 +1,107 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "image": "product-images/x-tudo.jpg",
+      "name": "x-tudo",
+      "price": "4.00",
+      "Code": "K122",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 2,
+      "image": "product-images/xbacon.png",
+      "name": "X-Bacon",
+      "price": "8.00",
+      "Code": "K433",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 3,
+      "image": "product-images/hamburguer-vegano.png",
+      "name": "Hamburguer vegano",
+      "price": "16.00",
+      "Code": "K012",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 4,
+      "image": "product-images/hamburguer.png",
+      "name": "Hamburguer",
+      "price": "3.00",
+      "Code": "G0127",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 5
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "image": "funcionarios-images/camila mendes.png",
+      "name": "Camila Mendes",
+      "price": "1.200",
+      "Code": "ATD",
+      "setor": "Balcão"
+    },
+    {
+      "id": 2,
+      "image": "funcionarios-images/brunomars.jpg",
+      "name": "Bruno Marte",
+      "price": "2.000",
+      "Code": "VNDA",
+      "setor": "Administração"
+    },
+    {
+      "id": 3,
+      "image": "funcionarios-images/demi-lovato.png",
+      "name": " Demitria Lovato",
+      "price": "1.600",
+      "Code": "GRCNT",
+      "setor": "salão"
+    },
+    {
+      "id": 4,
+      "image": "funcionarios-images/Peterparker.png",
+      "name": "Peter Parker",
+      "price": "3.600",
+      "Code": "GRNT",
+      "setor": "Administração"
+    }
+  ],
+  "Fornecedores": [
+    {
+      "id": 1,
+      "image": "fornecedores/hamburguer.png",
+      "name": "Mr. Carne",
+      "price": "2.168.00",
+      "Code": "H104",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 2,
+      "image": "fornecedores/refrigenrante.png",
+      "name": "Refrigerantes Ltda",
+      "price": "1.600",
+      "Code": "YT55",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 3,
+      "image": "fornecedores/condimentos.png",
+      "name": "Condimentos S.A",
+      "price": "600.00",
+      "Code": "FL02",
+      "setor": "lanchonete"
+    },
+    {
+      "id": 4,
+      "image": "fornecedores/paes.jpg",
+      "name": "Pães S.A",
+      "price": "3.600",
+      "Code": "K019",
+      "setor": "lanchonete"
+    }
+  ]
+}
